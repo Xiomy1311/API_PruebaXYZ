@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\repository\\interfaces\\irepposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:repository\\interfaces\\irepposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\repository\\interfaces\\irepgroupfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:repository\\interfaces\\irepgroupfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\repository\\interfaces\\irepcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:repository\\interfaces\\irepcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\controllers\\familygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:controllers\\familygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\models\\modfamilygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:models\\modfamilygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\util\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:util\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\repository\\implementation\\repfamilygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:repository\\implementation\\repfamilygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|c:\\users\\xmy13\\onedrive\\practica\\api_pruebaxyz\\repository\\implementation\\repcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3869EC69-83A7-4E82-84A7-AA8CB5044EC9}|API_PruebaXYZ.csproj|solutionrelative:repository\\implementation\\repcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepPosts.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepPosts.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepPosts.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepPosts.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepPosts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:44:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepGroupFamily.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepGroupFamily.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepGroupFamily.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepGroupFamily.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepGroupFamily.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:42:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepComments.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepComments.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepComments.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Interfaces\\IRepComments.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepComments.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:41:20.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:01:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModFamilyGroup.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Models\\ModFamilyGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ModFamilyGroup.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Models\\ModFamilyGroup.cs",
+              "RelativeToolTip": "Models\\ModFamilyGroup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:48:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepFamilyGroup.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Implementation\\RepFamilyGroup.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\RepFamilyGroup.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Implementation\\RepFamilyGroup.cs",
+              "RelativeToolTip": "Repository\\Implementation\\RepFamilyGroup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:47:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Util\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Util\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Util\\ConexionDB.cs",
+              "RelativeToolTip": "Util\\ConexionDB.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:46:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepComments.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Implementation\\RepComments.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\RepComments.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Repository\\Implementation\\RepComments.cs",
+              "RelativeToolTip": "Repository\\Implementation\\RepComments.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA3wFsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:38:42.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FamilyGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Controllers\\FamilyGroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FamilyGroupController.cs",
+              "ToolTip": "C:\\Users\\xmy13\\OneDrive\\Practica\\API_PruebaXYZ\\Controllers\\FamilyGroupController.cs",
+              "RelativeToolTip": "Controllers\\FamilyGroupController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:33:35.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
