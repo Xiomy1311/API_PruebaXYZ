@@ -50,3 +50,6 @@ DELETE
 
 POST
 /api/token
+
+**Nota**
+El archivo PruebaXYZ.zip es la prueba frontend.
